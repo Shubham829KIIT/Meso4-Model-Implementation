@@ -1,8 +1,4 @@
 # Meso4-Model-Implementation
-An approach to classify between DeepFake and Real Images
-Meso4/MesoNet is a CNN that is specifically designed for the
-purpose of classification between Real and Deep Fake images
-with high accuracy.
 
 The citations for such a complex problem is via a simple
 convolutional network design given in the research paper in 2018
